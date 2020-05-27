@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=StoneRoom
+comment0.text=\r\n\ Paul\ thoughts\:\r\n\ axe\ swing\ destroys\ fireballs\r\n\ enemies\ knocked\ further/stunned\r\n\ \r\n\ Daniel\ thoughts\:\r\n\ add\ powerup\:\ size\ increase,\ dmg\ increase\ (fireaxe\ lower\ opacity)\r\n\ \r\n\ Ask\ Stemkoski\:\r\n\ \r\n\ \r\n\ TO\ DO\:\r\n\ rework\ barb\ hit\ box*\r\n\ add\ barriers\ to\ doors\ that\ go\ down\ when\ room\ is\ clear*\r\n\ room\ cleared\ message*\r\n\ info\ menu*\r\n\ win\ the\ game*\r\n\ sound/music*\r\n\ update\ button\ instructions\ in\ menus*\r\n\ fading\ level\ names\ (new\ class\ similar\ to\ fading\ of\ healthbars)\r\n\ credits\ menu\r\n\ \r\n\ Music\ \=\ 8bit\ Dungeon\ Boss\r\n\ '8bit\ Dungeon\ Boss'\ Kevin\ MacLeod\ (incompetech.com)\r\nLicensed\ under\ Creative\ Commons\:\ By\ Attribution\ 3.0\ License\r\nhttp\://creativecommons.org/licenses/by/3.0/\r\n
+comment1.params=newGame\ index
+comment1.target=StoneRoom(boolean,\ int)
+comment2.params=newGame\ index
+comment2.target=void\ initialize(boolean,\ int)
+comment3.params=roomIndex
+comment3.target=void\ addDoors(int)
+comment3.text=\r\n\ This\ method\ determines\ how\ many\ doors\ a\ room\ should\ have\r\n\ @param\:\ roomIndex\ is\ the\ index\ in\ the\ arraylist\ of\ rooms\ (0-8)\r\n\ \r\n
+comment4.params=deltaTime
+comment4.target=void\ update(float)
+numComments=5

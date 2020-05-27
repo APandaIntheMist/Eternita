@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SpawnerHealthbar
+comment1.params=x\ y\ stage
+comment1.target=SpawnerHealthbar(float,\ float,\ com.badlogic.gdx.scenes.scene2d.Stage)
+comment2.params=deltaTime
+comment2.target=void\ act(float)
+comment3.params=
+comment3.target=int\ getHP()
+comment4.params=
+comment4.target=void\ loseHP()
+numComments=5
