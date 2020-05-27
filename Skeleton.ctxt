@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Skeleton
+comment0.text=\r\n\ Enemy\ for\ Eternita\r\n
+comment1.params=x\ y\ stage
+comment1.target=Skeleton(float,\ float,\ com.badlogic.gdx.scenes.scene2d.Stage)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Gargant\r\n
+comment2.params=deltaTime
+comment2.target=void\ act(float)
+comment3.params=
+comment3.target=int\ numDead()
+comment4.params=
+comment4.target=void\ attack()
+comment5.params=
+comment5.target=boolean\ isAttacking()
+comment6.params=
+comment6.target=SkeleSword\ getSword()
+comment7.params=
+comment7.target=double\ getIFrames()
+comment8.params=
+comment8.target=void\ hit()
+numComments=9

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=SageStaff
+comment0.text=\r\n\ Weapon\ for\ Sage\r\n
+comment1.params=x\ y\ stage
+comment1.target=SageStaff(float,\ float,\ com.badlogic.gdx.scenes.scene2d.Stage)
+comment2.params=
+comment2.target=boolean\ isAttacking()
+comment3.params=
+comment3.target=void\ attack()
+comment4.params=
+comment4.target=void\ idle()
+numComments=5

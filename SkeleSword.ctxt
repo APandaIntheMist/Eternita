@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=SkeleSword
+comment0.text=\r\n\ Sword\ for\ skeleton\r\n
+comment1.params=x\ y\ stage
+comment1.target=SkeleSword(float,\ float,\ com.badlogic.gdx.scenes.scene2d.Stage)
+comment2.params=deltaTime
+comment2.target=void\ act(float)
+comment3.params=
+comment3.target=boolean\ isAttacking()
+comment4.params=
+comment4.target=void\ attack()
+comment5.params=
+comment5.target=void\ idle()
+numComments=6

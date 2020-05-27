@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ham
+comment1.params=x\ y\ stage
+comment1.target=Ham(float,\ float,\ com.badlogic.gdx.scenes.scene2d.Stage)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Ham\r\n
+numComments=2

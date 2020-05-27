@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Credits
+comment0.text=\r\n\ Control\ scheme\ screen\r\n
+comment1.params=newGame\ index
+comment1.target=Credits(boolean,\ int)
+comment2.params=newGame\ index
+comment2.target=void\ initialize(boolean,\ int)
+comment3.params=deltaTime
+comment3.target=void\ update(float)
+numComments=4

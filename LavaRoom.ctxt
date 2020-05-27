@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=LavaRoom
+comment0.text=\r\n\ TO\ DO\:\ add\ enemies\ and\ enemy\ spawners\r\n\ levels\ more\ interesting\r\n\ doors\ not\ blue\ squares\r\n
+comment1.params=newGame\ index
+comment1.target=LavaRoom(boolean,\ int)
+comment2.params=newGame\ index
+comment2.target=void\ initialize(boolean,\ int)
+comment3.params=deltaTime
+comment3.target=void\ update(float)
+numComments=4

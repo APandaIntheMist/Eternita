@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Spawner
+comment0.text=\r\n\ Spawns\ enemies\ for\ Eternita\r\n
+comment1.params=x\ y\ stage
+comment1.target=Spawner(float,\ float,\ com.badlogic.gdx.scenes.scene2d.Stage)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Spawner\r\n
+comment2.params=deltaTime
+comment2.target=void\ act(float)
+comment3.params=
+comment3.target=void\ hit()
+comment4.params=
+comment4.target=double\ getSpawnTimer()
+comment5.params=
+comment5.target=void\ resetTimer()
+comment5.text=\r\n\ resets\ spawnTimer\r\n\ should\ be\ used\ right\ after\ enemies\ have\ been\ spawned\r\n
+numComments=6

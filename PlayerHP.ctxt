@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=PlayerHP
+comment1.params=x\ y\ stage
+comment1.target=PlayerHP(float,\ float,\ com.badlogic.gdx.scenes.scene2d.Stage)
+comment2.params=deltaTime
+comment2.target=void\ act(float)
+comment3.params=
+comment3.target=void\ resetHP()
+comment4.params=
+comment4.target=void\ addHP()
+comment5.params=
+comment5.target=int\ getHP()
+comment6.params=
+comment6.target=void\ loseHP()
+numComments=7

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Door
+comment0.text=\r\n\ Class\ that\ represents\ the\ portals\ between\ rooms\r\n
+comment1.params=x\ y\ stage
+comment1.target=Door(float,\ float,\ com.badlogic.gdx.scenes.scene2d.Stage)
+comment2.params=deltaTime
+comment2.target=void\ act(float)
+numComments=3

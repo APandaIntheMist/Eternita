@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Floor
+comment0.text=\r\n\ Conceptual\ class\ for\ floor\r\n\ Does\ all\ calculations\ in\ where\ the\ player\ is\r\n\ and\ what\ floor\ the\ game\ should\ load\r\n
+comment1.params=freshFloor\ oldFloor
+comment1.target=Floor(boolean,\ java.util.ArrayList)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Floor\r\n\ @param\:\ freshFloor\ is\ true\ if\ and\ only\ if\ a\ new\ game\ has\ been\ created\r\n\ in\ all\ other\ cases\ freshFloor\ is\ false\r\n\ @param\:\r\n
+comment2.params=
+comment2.target=java.util.ArrayList\ getFloor()
+comment2.text=\r\n\ Returns\ a\ copy\ of\ this\ floor\r\n
+comment3.params=roomIndex
+comment3.target=int\ getRoomVersion(int)
+comment3.text=\r\n\ returns\ an\ element\ (an\ integer)\ from\ the\ floor\ arraylist\r\n\ @param\:\ roomIndex\ (0-8)\ aka\ position\ in\ arraylist\ allRooms\r\n\ @return\:\ an\ int,\ the\ number\ stored\ in\ position\ roomIndex\r\n
+comment4.params=roomVersion
+comment4.target=int\ getRoomIndex(int)
+comment4.text=\r\n\ returns\ the\ index\ of\ an\ element\ (roomVersion)\ from\ the\ arraylist\ allRooms\r\n
+comment5.params=currentRoomIndex\ direction
+comment5.target=int\ determineNextRoomIndex(int,\ java.lang.String)
+comment5.text=\r\n\ This\ method\ determines\ which\ room\ the\ game\ should\ load\ when\ the\ player\ selects\ a\ door\r\n\ @param\:\ x\ the\ x\ position\ of\ the\ player\ on\ the\ floor\r\n\ @param\:\ y\ the\ y\ position\ of\ the\ player\ on\ the\ floor\r\n\ @param\:\ direction\ the\ direction\ the\ player\ wants\ to\ move\r\n\ @return\:\ a\ int\ list\ of\ size\ 2\ that\ contains\ the\ coordinates\ of\ the\ room\ being\ moved\ to\r\n
+numComments=6
