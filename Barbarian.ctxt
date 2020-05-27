@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Barbarian
+comment1.params=x\ y\ stage
+comment1.target=Barbarian(float,\ float,\ com.badlogic.gdx.scenes.scene2d.Stage)
+comment10.params=deltaTime
+comment10.target=void\ act(float)
+comment2.params=
+comment2.target=boolean\ isAttacking()
+comment3.params=
+comment3.target=boolean\ isComboing()
+comment4.params=
+comment4.target=boolean\ isIdle()
+comment5.params=
+comment5.target=boolean\ axeDone()
+comment6.params=
+comment6.target=void\ attack()
+comment6.text=\r\n\ Attack\ animation\ method\r\n
+comment7.params=
+comment7.target=void\ combo()
+comment7.text=\r\n\ Combo\ animation\ method\r\n
+comment8.params=
+comment8.target=double\ getComboWindow()
+comment8.text=\r\n\ return\ comboWindow\r\n\ comboWindow\ is\ the\ amount\ of\ time\ the\ player\ has\ spent\ not\ attacking\ again\r\n
+comment9.params=
+comment9.target=void\ idle()
+comment9.text=\r\n\ idle\ animation\ method\r\n
+numComments=11
