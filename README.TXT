@@ -1,5 +1,5 @@
 PROJECT TITLE: Eternita
-HOW TO START THIS PROJECT: Double click the eternitaPC.jar file located in the JAR folder.
+HOW TO START THIS PROJECT: Download the eternitaPC.jar file located in the JAR folder and double click to start it.
 PURPOSE OF PROJECT: Create a 2D roguelike for Adelphi University's research day
 VERSION or DATE: 5/27/20 - v1.5
 AUTHORS: Ryan Deisler
